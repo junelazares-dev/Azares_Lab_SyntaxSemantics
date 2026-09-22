@@ -22,9 +22,9 @@ This repository contains our implementation of a recursive-descent parser that:
 ## Files
 
 - `syntax_semantics.py` — Main Python source code  
-- `Flowchart.png` — Recursive-descent flowchart  
-- `Output_Log.txt` — Screenshots/text of required test cases  
-- `Reflection_Answers.docx` — Answers to reflection questions  
+- `flowchartdrawio.png` — Recursive-descent flowchart  
+- `Required_Test_Cases.docx` — Screenshots/text of required test cases  
+- `Reflection Question-Answers.docx` — Answers to reflection questions  
 
 ## How to Run
 
